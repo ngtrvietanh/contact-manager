@@ -1,17 +1,17 @@
 [
     {
         "name": "anh",
-        "phone": "0123",
+        "phone": "0838464737",
+        "email": "tranvietanhcbh@edu.com.vn"
+    },
+    {
+        "name": "viet anh",
+        "phone": "0838464737",
         "email": "tranvietanhcbh@gmail.com"
     },
     {
-        "name": "kun",
-        "phone": "042342341",
-        "email": "vsdfsdf@gmail.com"
-    },
-    {
-        "name": "anh",
-        "phone": "0838464737",
-        "email": "tranvietanhcbh@edu.com.vn"
+        "name": "Nguyen Van A",
+        "phone": "0838463747",
+        "email": "tranvietanhcbh@gmail.com"
     }
 ]
